@@ -1,6 +1,6 @@
 # Mini Project
 
-A simple ToDo app using TypeScript and PostgreSQL
+A simple ToDo app using TypeScript and PostgreSQL ( only backend )
 
 ## Installation
 
